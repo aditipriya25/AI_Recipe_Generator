@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+easyocr
+torch
+torchvision
+transformers
+pillow
+numpy
+requests
+sqlalchemy
+configparser
